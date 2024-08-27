@@ -1,0 +1,12 @@
+JWTS- are often used for authentication and authorization in web aplication.
+** Authentication- verifying the identify os a user or client
+** Authorization- Determing what action a user or client is allowed to perform
+
+** userSchema.methods - ki help se kitne bhi function or methods create  kar skte hai 
+Vite is a frontend tool that is used for building fast and optimized web applications
+navlink is used for active and pending status updates in web aplication and no reloading is required.
+
+[name] it is dynamic bcz woh kuch bhi ho skta hai usrname, email, password, message or us value ko update kardega baki ais hi rhegi 
+(...)spread opreator ki help se previous data access kar legye;
+
+CORS policy is a security policy feature implemented by web aplication browser to resttrict webpage from making request to a different domain tha one server webpage. MERN you migth encountered CORS policy issues when frontend and backend are hosted on different domains.
